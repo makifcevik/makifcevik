@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently improving my **python skills such as pandas, tkinter etc.**
 
-- 📫 You can reach me at **https://www.linkedin.com/in/mehmet-akif-çevik / makif.cevik02@gmail.com**
+- 📫 You can reach me at **https://www.linkedin.com/in/mehmet-akif-çevik**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

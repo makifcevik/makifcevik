@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Mehmet Akif and I'm a computer engineering student 3/4 from Türkiye.</h2>
+<h2 align="center">Hi 👋! My name is Mehmet Akif and I'm a senior computer engineering student from Türkiye.</h2>
 
 ###
 
